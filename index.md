@@ -29,6 +29,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 `1654-1660`
 __The King's School, Grantham.__
+- Bachrlor of Sciecne
 
 `June 1661 - now`
 __Trinity College, Cambridge__
