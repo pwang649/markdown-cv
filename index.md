@@ -38,7 +38,7 @@ __University of Southern California (USC)__, Los Angeles, CA
 __Research Assistant__, Carnegie Mellon University, Pittsburgh, PA
 
 - Advisor: Maxim Likhachev @ Search-Based Planning Lab
-- Developed machine learning-based method to tackle 2D MAPF problem that could also guarantee completeness. Work in progress for ICAPS 2024.
+- Developed learning-based methods to tackle the 2D MAPF problem that could also guarantee completeness. Work in progress for ICAPS 2024.
 - Benchmarked and evaluated 3D MAPF problems using EECBS and MAPF-LNS2 methods. This work is under review @ AAAI 2024.
 
 `Jan 2023 - Jun 2023`
@@ -58,13 +58,13 @@ __Research Assistant__, USC, Los Angeles, CA
 __Software Engineer Intern__, Honeybee Robotics, Altadena, CA
 
 - Developed an operator console on YAMCS Studio to communicate with the ground station YAMCS for displaying incoming telemetry data and sending control commands to the space mining drill.
-- Crafted a simulator for the drill using python that’s able to emulate responses after receiving telecommand.
+- Crafted a simulator for the drill that’s able to emulate responses after receiving telecommand.
 
 `Aug 2021 - May 2022`
-__Research Fellow__, USC, Los Angeles, CA
+__Undergraduate Research Fellow__, USC, Los Angeles, CA
 
 - Advisor: Quan Nguyen @ Dynamic Robotics and Control Lab
-- Worked on the design and control of a light-weight low-cost quadruped robot.
+- Worked on the design and control of a lightweight low-cost quadruped robot.
 - Co-lead the software control sub-team and develop impedance control on the robot legs.
 
 ## Publications
@@ -77,8 +77,6 @@ __Research Fellow__, USC, Los Angeles, CA
 **MAPF in 3D Warehouses: Dataset and Analysis**
 
 - __Qian Wang__, Rishi Veerapaneni, Jiaoyang Li, Maxim Likhachev. In submission to AAAI 2024.
-- .
-- .
 
 `2023`
 **Accelerating Deep Neural Network guided MCTS using Adaptive Parallelism** [[Link]](https://arxiv.org/pdf/2310.05313.pdf)
@@ -88,19 +86,33 @@ __Research Fellow__, USC, Los Angeles, CA
 ## Awards
 
 `2023`
-Provost's Research Fellowship
+__Provost's Research Fellowship__
+
+- Received $1000 research grant
 
 `2023`
-Engineering Honors Program
+__Engineering Honors Program__
 
 `2021-2022`
-CURVE Research Fellowship
+__CURVE Research Fellowship__
+
+- Received $2500 research grant
 
 `2021-2022`
-Academic Achievement Award
+__Academic Achievement Award__
 
-`2020-2023`
-USC Dean's List
+- Received about $30000 in tuition reduction
+
+<!-- `2020-2023`
+__USC Dean's List__ -->
+
+`2019`
+__1st Place in Shanghai UM-SJTU Hackathon__
+
+- Developed and patented a CNN-based auto-sorting trash can. Received a $1500 award
+
+`2018, 2019`
+__FRC Regional Winner and Innovation in Control Award__
 
 ## Teaching
 
@@ -126,7 +138,7 @@ __Parallel and Distribution Computation (EE 451)__
 `Jan 2023 - May 2023`
 __Intro to Digital Circuits (EE 354)__
 
-- Delivered lecture-style instructions and provide assistance to a group of 30+ students in a weekly lab section
+- Delivered lecture-style instructions and assisted 30+ students in a weekly lab section
 
 ### Tutoring
 
@@ -141,8 +153,8 @@ __AP Computer Science A and AP Physics 1&2__
 `Jun 2020 - Present`
 __Robotics Mentor__, Bishop Alemany High School, Mission Hills, CA
 
-- 300+ hours dedicated to mentoring high school students FRC robotics team (2659 RoboWarriors) focusing on design, integration, and iteration for electrical, software, and control system equipment for autonomous robot
-- Designed a course titled "Robotics: from Theory to Applications", and deliver a lecture for 2 hrs/week to students [[link]](https://github.com/pwang649/FRC_Training)
+- 400+ hours dedicated to mentoring high school students FRC robotics team (2659 RoboWarriors) focusing on design, integration, and iteration for electrical, software, and control system equipment for autonomous robot
+- Designed a course titled "Robotics: from Theory to Applications", and delivered a lecture for 2 hrs/week to students [[link]](https://github.com/pwang649/FRC_Training)
 
 ## Skills
 
