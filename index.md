@@ -75,7 +75,7 @@ __Undergraduate Research Fellow__, USC, Los Angeles, CA
 
 `2024`
 
-**Improving Learned Local MAPF Policies with Heuristic Search**
+**Improving Learnt Local MAPF Policies with Heuristic Search**
 
 - Rishi Veerapaneni\*, __Qian Wang\*__, Kevin Ren\*, Arthur Jakobsson\*, Jiaoyang Li, Maxim Likhachev. *ICAPS 2024*.
 
@@ -91,7 +91,7 @@ __Undergraduate Research Fellow__, USC, Los Angeles, CA
 - Yuan Meng\*, __Qian Wang\*__, Tianxin Zu, Viktor Prasanna. *13th Workshop on Irregular Applications: Architectures and Algorithms (IA^3 2023).*
 
 `2023`
-**Enhancing the Performance of DeepReach on High-Dimensional Systems through Optimizing Activation Functions**
+**Enhancing the Performance of DeepReach on High-Dimensional Systems through Optimizing Activation Functions** [[Link]](https://arxiv.org/pdf/2312.17583.pdf)
 
 - __Qian Wang\*__, Tianhao Wu\*. arXiv, 2023.
 
