@@ -21,7 +21,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Long-horizon Planning, Multi-agent Planning, Machine Learning
+Long-horizon Planning, Motion Planning, Robotic Manipulation, Machine Learning
 
 ## Education
 
@@ -38,26 +38,26 @@ __University of Southern California (USC)__, Los Angeles, CA
 __Research Assistant__, Carnegie Mellon University, Pittsburgh, PA
 
 - Advisor: Maxim Likhachev @ Search-Based Planning Lab
-- Developed learning-based methods to tackle the 2D MAPF problem that could also guarantee completeness. Work in progress for ICAPS 2024.
-- Benchmarked and evaluated 3D MAPF problems using EECBS and MAPF-LNS2 methods. This work is under review @ AAAI 2024.
+- Developed learning-based methods to tackle the 2D MAPF problem that could also guarantee completeness. Accepted to *ICAPS 2024*.
+- Benchmarked and evaluated 3D MAPF problems using EECBS and MAPF-LNS2 methods. Accepted to *ICAPS 2024*.
 
 `Jan 2023 - Jun 2023`
 __Research Assistant__, USC, Los Angeles, CA
 
 - Advisor: Viktor Prasanna @ Parallel Computing Lab
-- Devised a novel approach to optimize the existing parallel DNN-MCTS algorithm by systematically choosing the best batch size for parallelization on GPU, resulting in a co-first author paper @ IA^3 2023.
+- Devised a novel approach to optimize the existing parallel DNN-MCTS algorithm by systematically choosing the best batch size for parallelization on GPU, resulting in a co-first author paper to *IA^3 2023*.
 
 `Aug 2022 - Jun 2023`
 __Research Assistant__, USC, Los Angeles, CA
 
 - Advisor: Stefanos Nikolaidis @ ICAROS Lab
 - Developed simulation software and real-life robotics demo using PyBullet and Aikido.
-- Jointly developed CNN and heuristic-based methods and optimized placement accuracy to improve sampling efficiency in the geometric task and motion planning (gTAMP) problem.
+- Jointly developed CNN and heuristic-based methods and optimized placement accuracy to improve sampling efficiency in the geometric Task and Motion Planning (gTAMP) problem.
 
 `May 2022 - Aug 2022`
 __Software Engineer Intern__, Honeybee Robotics, Altadena, CA
 
-- Developed an operator console on YAMCS Studio to communicate with the ground station YAMCS for displaying incoming telemetry data and sending control commands to the space mining drill.
+- Built a YAMCS Studio operator console to interface with the ground station, displaying telemetry data and controlling a space mining drill.
 - Crafted a simulator for the drill that’s able to emulate responses after receiving telecommand.
 
 `Aug 2021 - May 2022`
@@ -74,21 +74,33 @@ __Undergraduate Research Fellow__, USC, Los Angeles, CA
 <!-- ### Journals -->
 
 `2024`
+
+**Improving Learned Local MAPF Policies with Heuristic Search**
+
+- Rishi Veerapaneni\*, __Qian Wang\*__, Kevin Ren\*, Arthur Jakobsson\*, Jiaoyang Li, Maxim Likhachev. *ICAPS 2024*.
+
+`2024`
+
 **MAPF in 3D Warehouses: Dataset and Analysis**
 
-- __Qian Wang__, Rishi Veerapaneni, Jiaoyang Li, Maxim Likhachev. In submission to AAAI 2024.
+- __Qian Wang\*__, Rishi Veerapaneni\*, Yu Wu, Jiaoyang Li, Maxim Likhachev. *ICAPS 2024*.
 
 `2023`
 **Accelerating Deep Neural Network guided MCTS using Adaptive Parallelism** [[Link]](https://arxiv.org/pdf/2310.05313.pdf)
 
-- Yuan Meng\*, __Qian Wang\*__, Tianxin Zu, Viktor Prasanna. 13th Workshop on Irregular Applications: Architectures and Algorithms (IA^3 2023).
+- Yuan Meng\*, __Qian Wang\*__, Tianxin Zu, Viktor Prasanna. *13th Workshop on Irregular Applications: Architectures and Algorithms (IA^3 2023).*
+
+`2023`
+**Enhancing the Performance of DeepReach on High-Dimensional Systems through Optimizing Activation Functions**
+
+- __Qian Wang\*__, Tianhao Wu\*. arXiv, 2023.
 
 ## Awards
 
 `2023`
 __Provost's Research Fellowship__
 
-- Received $1000 research grant
+<!-- - Received $1000 research grant -->
 
 `2023`
 __Engineering Honors Program__
@@ -96,7 +108,7 @@ __Engineering Honors Program__
 `2021-2022`
 __CURVE Research Fellowship__
 
-- Received $2500 research grant
+<!-- - Received $2500 research grant -->
 
 `2021-2022`
 __Academic Achievement Award__
