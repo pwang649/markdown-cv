@@ -21,9 +21,14 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Long-horizon Planning, Motion Planning, Robotic Manipulation, Machine Learning
+Long-horizon Planning, Deep Learning, Motion Planning
 
 ## Education
+
+`Aug 2024 - May 2029`
+__Yale University__, New Haven, CT
+
+- Ph.D. Computer Science
 
 `Aug 2020 - May 2024`
 __University of Southern California (USC)__, Los Angeles, CA
@@ -34,7 +39,13 @@ __University of Southern California (USC)__, Los Angeles, CA
 
 ## Experience
 
-`Jun 2023 - Present`
+`Jan 2024 - Present`
+__Research Assistant__, University of Southern California, Los Angeles, CA
+
+- Advisor: Daniel Seita @ SLURM Lab
+- Developing contact-aware and collision-acceptable robotic manipulation applications with the integration of foundation AI model.
+
+`Jun 2023 - Jan 2024`
 __Research Assistant__, Carnegie Mellon University, Pittsburgh, PA
 
 - Advisor: Maxim Likhachev @ Search-Based Planning Lab
@@ -75,7 +86,7 @@ __Undergraduate Research Fellow__, USC, Los Angeles, CA
 
 `2024`
 
-**Improving Learnt Local MAPF Policies with Heuristic Search**
+**Improving Learnt Local MAPF Policies with Heuristic Search** [[Link]](https://arxiv.org/pdf/2403.20300.pdf)
 
 - Rishi Veerapaneni\*, __Qian Wang\*__, Kevin Ren\*, Arthur Jakobsson\*, Jiaoyang Li, Maxim Likhachev. *ICAPS 2024*.
 
@@ -122,9 +133,9 @@ __USC Dean's List__ -->
 __1st Place in Shanghai UM-SJTU Hackathon__
 
 - Developed and patented a CNN-based auto-sorting trash can. Received a $1500 award
-
+<!-- 
 `2018, 2019`
-__FRC Regional Winner and Innovation in Control Award__
+__FRC Regional Winner and Innovation in Control Award__ -->
 
 ## Teaching
 
